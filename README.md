@@ -1,2 +1,2 @@
-# responsive-website
+# responsive-page
 responsive-website using reactjs and TailwindCSS
